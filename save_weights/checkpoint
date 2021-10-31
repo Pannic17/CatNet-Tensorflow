@@ -1,0 +1,2 @@
+model_checkpoint_path: "CMN_b16e24_onnx_v6.ckpt"
+all_model_checkpoint_paths: "CMN_b16e24_onnx_v6.ckpt"
